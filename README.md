@@ -295,3 +295,19 @@ git push
 Если есть необходимость, то следует добавить какой-либо комментарий к нашему `pull request`. После этого еще раз нажимаем кнопку `«Create pull request»`.
 
 Pull Request отправлен!
+
+Project on GitHub.com account 
+
+1. Fork interesting us repository
+
+2. Git clone our version remote repository
+
+3. Do branch with our changes 
+
+4. Do changes only in our branch
+
+5. Send changes to our account (push)
+
+6. In window GitHub do (pull) request
+
+
