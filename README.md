@@ -296,9 +296,3 @@ git push
 
 Pull Request отправлен!
 
-### <a id="links"></a> Полезные ссылки
-> [гит для новичков](https://habr.com/post/541258/)
-
-> [соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0,0-beta.2/)
-
-> [коротко о ssh](https://habr.com/ru/sandbox/166705/)
