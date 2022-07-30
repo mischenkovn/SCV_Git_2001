@@ -1,8 +1,14 @@
 ### Репозитой с инструкцией Git
+
 # Работа с Git
+
+git init
+do somthing
+git add .
+
 ## Проверка наличия установленного Git
 В терминале выполнить команду
-```
+git status
 git --version
 ```
 Если Git установлен правильно - мы получим версию программы.
@@ -17,7 +23,6 @@ https://code.visualstudio.com/download
 и устанавливаем с настройками " по умолчанию ".
 ## Настройка Git
 При первом использовании Git необходимо представиться
-```
 git config --global user.name your name
 git config --global user.email your e-mail
 ```
