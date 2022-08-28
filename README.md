@@ -11,6 +11,13 @@ git --version
 Загружаем последнюю версию Git  с сайта:
 https://git-scm.com/download/win
 и устанавливаем с настройками "по умолчанию".
+
+### Установка git на Linux (Debian, Ubuntu)
+В терминале выполнить команду
+```
+$ sudo apt install git-all
+```
+
 ## Установка Visual Studio Code
 Загружаем последнюю версию Git  с сайта:
 https://code.visualstudio.com/download
