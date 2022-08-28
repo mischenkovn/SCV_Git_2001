@@ -295,3 +295,4 @@ git push
 Если есть необходимость, то следует добавить какой-либо комментарий к нашему `pull request`. После этого еще раз нажимаем кнопку `«Create pull request»`.
 
 Pull Request отправлен!
+![Желаю удачи!](https://otkritkis.com/wp-content/uploads/2021/11/10659780_92a8012c7d85c951c74629b1035e6cca_800.jpg)
