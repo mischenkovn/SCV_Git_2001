@@ -21,6 +21,30 @@ https://code.visualstudio.com/download
 git config --global user.name your name
 git config --global user.email your e-mail
 ```
+### Уровни настройки
+- Настройка на уровне системы (system)
+- Настройка на уровне пользователя системы (global)
+- Настройка на уровне локального репозитория (local)
+Настройка Git на уровне системы (нужны права суперпользователя)
+```
+git config --system user.name your name
+git config --system user.email your e-mail
+```
+Настройка Git на уровне пользователя системы
+```
+git config --global user.name your name
+git config --global user.email your e-mail
+```
+Настройка Git на уровне локального репозитория
+```
+git config --local user.name your name
+git config --local user.email your e-mail
+```
+Настройки local подменяют global, а global подменяет system
+Проверка настроек
+```
+git config --list
+```
 ## Создание и инициализация репозитория
 *Репозиторием называют хранилище вашего кода и историю его изменений. Git работает локально и все ваши репозитории хранятся в определенных папках на жёстком диске.*
 
