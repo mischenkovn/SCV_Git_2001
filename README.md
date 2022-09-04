@@ -18,8 +18,8 @@ https://code.visualstudio.com/download
 ## Настройка Git
 При первом использовании Git необходимо представиться
 ```
-git config --global user.name your name
-git config --global user.email your e-mail
+git config --global user.name your name (Имя пользователя)
+git config --global user.email your e-mail (Электронная почта)
 ```
 ## Создание и инициализация репозитория
 *Репозиторием называют хранилище вашего кода и историю его изменений. Git работает локально и все ваши репозитории хранятся в определенных папках на жёстком диске.*
