@@ -1,3 +1,4 @@
+![logo](https://i.ytimg.com/vi/SHB74xizE_M/maxresdefault.jpg)
 ### Репозитой с инструкцией Git
 # Работа с Git
 ## Проверка наличия установленного Git
@@ -294,4 +295,4 @@ git push
 ![Create pull request_knopka](5.jpg)
 Если есть необходимость, то следует добавить какой-либо комментарий к нашему `pull request`. После этого еще раз нажимаем кнопку `«Create pull request»`.
 
-Pull Request отправлен!
+Pull Request отправлен
