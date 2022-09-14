@@ -295,3 +295,7 @@ git push
 Если есть необходимость, то следует добавить какой-либо комментарий к нашему `pull request`. После этого еще раз нажимаем кнопку `«Create pull request»`.
 
 Pull Request отправлен!
+
+### 6. быстрый поиск commit'ов
+
+git log --oneline --all --graph
